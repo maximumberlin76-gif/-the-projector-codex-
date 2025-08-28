@@ -1,41 +1,26 @@
 # -the-projector-codex-
 Fractal Projector Codex – Open reference of axioms, laws, and resonance models. Includes Quantum as fractal pixel, Law of Point, Minimal Form, with proofs and 2D–4D structures. A bridge between physics, math, and philosophy for civilization studies.
 
-# Philosophical Addendum  
-*(to "The Marnov Proof")*
+# Philosophical Addendum to the Fractal Paradigm
 
----
+## Core Principles
 
-## Philosophy as the Root of Science  
+### 1. Philosophy as the Root of Science
+Science emerged from philosophy's empathetic search for knowledge about the whole. Where science analyzes fragments, philosophy contemplates the unity of existence.
 
-Science did not arise in isolation.  
-It emerged from **philosophy** — the empathetic search for knowledge and answers about the **whole**.  
-Where science analyzes fragments, philosophy contemplates the **unity of existence**.  
+### 2. Minimal Axioms of Reality
+The foundations of quantum reality are revealed through philosophical axioms:
+- **Law of the Point**: Singularity as the condition of existence
+- **Law of Minimal Stable Form**: Triangle (2D) and tetrahedron (3D) as fundamental forms
+- **Law of Similarity**: Fractal repetition across all scales
 
----
+### 3. The Human Dimension
+Understanding emerges when these axioms join with:
+- Empathy and pure intention
+- Will (spirit)
+- The ability to perceive patterns as a whole
 
-## Minimal Axioms  
+## Conclusion
+The quantum can be seen as a fractal pixel of reality. Scientific experiments confirm what philosophy - science's foundation - has already illuminated.
 
-From this perspective, the foundations of quantum reality are revealed not primarily through experiments,  
-but through simple philosophical axioms:
-
-- **Law of the Point** — singularity as the condition of existence.  
-- **Law of Minimal Stable Form** — triangle (2D), tetrahedron (3D) in the observable Universe.  
-- **Law of Similarity** — fractal repetition across all scales.  
-
----
-
-## Human Dimension  
-
-Understanding emerges when these axioms are joined with:  
-- empathy and pure intention,  
-- will (spirit),  
-- and the ability to perceive the **pattern as a whole**.  
-
----
-
-## Conclusion  
-
-Thus, the **quantum** can be seen as a **fractal pixel of reality**.  
-Scientific experiments only confirm what philosophy — the foundation of science itself —  
-has already illuminated.
+*© Maksym Marnov. Intellectual Property. All rights reserved.*
